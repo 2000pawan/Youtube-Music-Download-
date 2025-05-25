@@ -35,11 +35,10 @@ A simple and user-friendly desktop GUI application built with **Python Tkinter**
     pip install yt-dlp
 
 ### 3. Download FFmpeg
+     Download the latest FFmpeg static build from:
+     👉 https://www.gyan.dev/ffmpeg/builds/
 
-Download the latest FFmpeg static build from:
-👉 https://www.gyan.dev/ffmpeg/builds/
-
-Extract and copy the path of the ffmpeg/bin folder (e.g., D:/Software/ffmpeg/bin), then update it in the script under ffmpeg_path.
+    Extract and copy the path of the ffmpeg/bin folder (e.g., D:/Software/ffmpeg/bin), then update it in the script under ffmpeg_path.
 
 ## 🧠 Usage
 Run the script:
