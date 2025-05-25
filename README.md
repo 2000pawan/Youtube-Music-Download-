@@ -54,7 +54,7 @@ Click Download Music.
 Enjoy your music saved in MP3 format!
 
 ## 🖥️ GUI Screenshot
-(Add a screenshot here if available)
+![GUI Calendar Screenshot](screenshot.png)
 
 ## 🧑‍💻 Developer
 
