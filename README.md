@@ -43,22 +43,22 @@ A simple and user-friendly desktop GUI application built with **Python Tkinter**
 ### 1. Clone the repository
     ```bash
     git clone https://github.com/2000pawan/Youtube-Music-Download-.git
-    cd youtube-music-downloader
-
+    cd Music_Download.py
+    
 ### 2. Install dependencies
 
     pip install yt-dlp
 
 ### 3. Download FFmpeg
      Download the latest FFmpeg static build from:
-     👉 https://www.gyan.dev/ffmpeg/builds/
+     👉https://www.ffmpeg.org/download.html
 
     Extract and copy the path of the ffmpeg/bin folder (e.g., D:/Software/ffmpeg/bin), then update it in the script under ffmpeg_path.
 
 ## 🧠 Usage
 Run the script:
 
-python youtube_music_downloader.py
+python Music_Download.py
 
 Paste a YouTube music video URL.
 
