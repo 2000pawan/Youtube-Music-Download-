@@ -30,11 +30,11 @@ A simple and user-friendly desktop GUI application built with **Python Tkinter**
     git clone https://github.com/yourusername/youtube-music-downloader.git
     cd youtube-music-downloader
 
-2. Install dependencies
+### 2. Install dependencies
 
     pip install yt-dlp
 
-3. Download FFmpeg
+### 3. Download FFmpeg
 
 Download the latest FFmpeg static build from:
 👉 https://www.gyan.dev/ffmpeg/builds/
