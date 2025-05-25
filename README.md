@@ -25,7 +25,8 @@ A simple and user-friendly desktop GUI application built with **Python Tkinter**
 2. Double-click to launch the YouTube Music Downloader.
 3. Paste the YouTube link, choose a folder, and hit **Download Music**.
 
-> ⚠️ Make sure FFmpeg is present in your system or bundled with the EXE. If needed, extract [FFmpeg](https://www.ffmpeg.org/download.html) and place the `/bin` path in the script before compiling.
+> ⚠️ Make sure FFmpeg is present in your system or bundled with the EXE. If needed, extract [FFmpeg](https://www.ffmpeg.org/download.html) and place the `ffmpeg_path = r"D:\Software\ffmpeg-master-latest-win64-gpl\ffmpeg-master-latest-win64-gpl\bin"
+` path in the script before compiling.
 
 ---
 
